@@ -7,10 +7,11 @@
  
 Can be used to control any audio software like Traktor pro 2,FL Studio etc
 
-# Compilation note:
+# Compilation note
 - Requires MIDI.h LIbrary into Arduino IDE compailer : https://github.com/FortySevenEffects/arduino_midi_library/releases/tag/4.3.1
 
-Schematics : https://circuits.io/circuits/4885592-arduino-midi-controller-nathan
+# Schematics
+Visit here : https://circuits.io/circuits/4885592-arduino-midi-controller-nathan
 
 # Additional Softwares
 - Hairless MIDI : http://projectgus.github.io/hairless-midiserial/
